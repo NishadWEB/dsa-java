@@ -1,5 +1,6 @@
 package org.example.strings;
 
+//Two Pointers (Start & End)
 public class A2_Palindrome {
     public static void main(String[] args) {
         String s = "mam";

@@ -3,6 +3,7 @@ package org.example.strings;
 import java.util.ArrayList;
 import java.util.List;
 
+// Lookup Pattern (contains) + Deduplication
 public class A7_RemoveDuplicateCharacter {
     public static void main(String[] args) {
         String s = "programming";

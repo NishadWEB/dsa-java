@@ -1,5 +1,6 @@
 package org.example.strings;
 
+// Character Validation
 public class A9_CheckIfStringContainsOnlyDigits {
     public static void main(String[] args) {
         String s = "1231asd123";

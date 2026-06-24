@@ -1,5 +1,6 @@
 package org.example.strings;
 
+// Linear Traversal + Counting
 public class A4_CountRepeatedLetter {
 
     public static void main(String[] args) {

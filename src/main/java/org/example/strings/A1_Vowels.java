@@ -1,5 +1,6 @@
 package org.example.strings;
 
+//Linear Traversal
 public class A1_Vowels {
     public static void main(String[] args) {
         String s = "hello";

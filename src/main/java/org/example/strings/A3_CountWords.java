@@ -1,5 +1,6 @@
 package org.example.strings;
 
+//Linear Traversal + Counting
 public class A3_CountWords {
     public static void main(String[] args) {
         String para = "hello";

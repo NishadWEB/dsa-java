@@ -3,6 +3,7 @@ package org.example.strings;
 import java.util.ArrayList;
 import java.util.List;
 
+// Vertical Scanning
 public class A12_LongestCommonPrefix {
     public static void main(String[] args) {
         String[] str = {"internet", "l", "interest"};

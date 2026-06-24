@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // 80% solved by me, but took little hints from gpt (not solution or code)
+// Nested Loops + Duplicate Tracking
 public class A5_FirstNonRepeatingCharacter {
     public static void main(String[] args) {
         String s = "baaccdd";

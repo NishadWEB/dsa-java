@@ -1,5 +1,6 @@
 package org.example.strings;
 
+// String Rotation Simulation
 public class A11_CheckIfTwoStringsAreRotations {
     public static void main(String[] args) {
         String first = "nishad";

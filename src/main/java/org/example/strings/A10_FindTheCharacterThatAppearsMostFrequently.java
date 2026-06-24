@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+// Frequency Counting + HashMap
 public class A10_FindTheCharacterThatAppearsMostFrequently {
     public static void main(String[] args) {
         String s = "nishad";

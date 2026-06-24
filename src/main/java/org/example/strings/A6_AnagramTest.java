@@ -3,6 +3,7 @@ package org.example.strings;
 import java.util.ArrayList;
 import java.util.List;
 
+// Nested Loops + Visited Index Tracking
 public class A6_AnagramTest {
     public static void main(String[] args) {
         String a = "aab";
