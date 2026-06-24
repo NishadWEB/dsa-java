@@ -6,7 +6,7 @@ import java.util.List;
 // Vertical Scanning
 public class A12_LongestCommonPrefix {
     public static void main(String[] args) {
-        String[] str = {"internet", "l", "interest"};
+        String[] str = {"ajjagajaga", "ajjagaanadhaa", "ajukkanaa", "ajjpeeralaaaa"};
         int length = str.length;
 
         if (length == 0) {
