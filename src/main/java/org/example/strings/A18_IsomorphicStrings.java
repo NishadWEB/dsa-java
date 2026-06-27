@@ -1,9 +1,7 @@
 package org.example.strings;
 
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Map;
-import java.util.Set;
 
 public class A18_IsomorphicStrings {
     public static void main(String[] args) {
